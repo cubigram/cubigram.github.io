@@ -70,37 +70,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/app-store-en.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/app-store-en.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/img/app-store-es.png": {
-		"ft": 32768,
-		"iS": 12888,
-		"oA": 0,
-		"oAP": "/img/app-store-es.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/app-store-es.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/app-store-es.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
 	"/img/cubigram-creator-chocotuits.png": {
 		"ft": 32768,
 		"iS": 122255,
