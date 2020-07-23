@@ -346,6 +346,9 @@ textarea {
   -ms-user-select: none;
   user-select: none;
 }
+.containing-block {
+  position: relative;
+}
 /* apply a natural box layout model to all elements */
 * {
   -moz-box-sizing: border-box;
@@ -434,14 +437,6 @@ a {
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
-}
-.footer-wrapper {
-  width: 100%;
-  height: 200px;
-  background-image: url('../img/cubigram-landscape.svg');
-  background-repeat: repeat-x;
-  background-position: bottom;
-  background-size: auto 200px;
 }
 .logo {
   font-family: 'Montserrat', sans-serif;
@@ -563,6 +558,9 @@ a {
     margin-right: 8.439%;
   }
 }
+.hero-header__cube__img {
+  width: 380px;
+}
 .hero-header__cube__word {
   text-align: center;
   font-weight: 700;
@@ -674,5 +672,34 @@ a {
 }
 .howtoplay {
   text-align: center;
+}
+.footer-landscape {
+  width: 100%;
+  height: 200px;
+  background-image: url('../img/cubigram-landscape.svg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: auto 200px;
+}
+.footer {
+  width: 100%;
+  height: 40px;
+  background-color: #1B0726;
+  position: relative;
+  text-align: center;
+}
+.footer__contact {
+  font-size: 0.9rem;
+}
+.footer__contact a {
+  color: #b6637c;
+}
+.legal-text {
+  width: 96%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.legal-text a {
+  color: #441e3d;
 }
 /*# sourceMappingURL=styles.css.map */

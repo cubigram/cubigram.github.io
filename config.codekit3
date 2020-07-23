@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -26,6 +34,41 @@
 		"oA": 0,
 		"oAP": "/css/styles.css.map",
 		"oF": 0
+		},
+	"/es/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/es/index.html",
+		"oF": 0
+		},
+	"/es/politica-privacidad.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/es/politica-privacidad.html",
+		"oF": 0
+		},
+	"/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/favicon.ico",
+		"oF": 0
+		},
+	"/icon.png": {
+		"ft": 32768,
+		"iS": 54049,
+		"oA": 0,
+		"oAP": "/icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/img/app-store-en.svg": {
 		"ft": 2097152,
@@ -96,6 +139,37 @@
 		"iS": 250623,
 		"oA": 0,
 		"oAP": "/img/cubigram-cube.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/cubigram-cube.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/cubigram-cube.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/img/cubigram-cubo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/cubigram-cubo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/img/cubigram-en.png": {
+		"ft": 32768,
+		"iS": 89492,
+		"oA": 0,
+		"oAP": "/img/cubigram-en.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -223,6 +297,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/privacy-policy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/privacy-policy.html",
 		"oF": 0
 		},
 	"/styles/_base.less": {
