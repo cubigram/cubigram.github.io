@@ -165,6 +165,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/cubigram-es.png": {
+		"ft": 32768,
+		"iS": 105141,
+		"oA": 0,
+		"oAP": "/img/cubigram-es.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/cubigram-howtoplay-1.png": {
 		"ft": 32768,
 		"iS": 19435,
@@ -275,6 +286,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/cubigram-landscape.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/img/cubigram-landscape_.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/cubigram-landscape_.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
