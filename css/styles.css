@@ -689,10 +689,15 @@ a {
   position: relative;
   text-align: center;
 }
-.footer__contact {
+.footer__links {
   font-size: 0.9rem;
+  list-style: none;
 }
-.footer__contact a {
+.footer__links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.footer__links a {
   color: #b6637c;
 }
 .legal-text {
