@@ -90,6 +90,17 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/img/cubigram-creator-chocotuits.png": {
+		"ft": 32768,
+		"iS": 36083,
+		"oA": 0,
+		"oAP": "/img/cubigram-creator-chocotuits.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/cubigram-creator-chocotuits_.png": {
 		"ft": 32768,
 		"iS": 122255,
@@ -101,11 +112,33 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/cubigram-creator-miguelcm.png": {
+		"ft": 32768,
+		"iS": 20530,
+		"oA": 0,
+		"oAP": "/img/cubigram-creator-miguelcm.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/cubigram-creator-miguelcm_.png": {
 		"ft": 32768,
 		"iS": 99166,
 		"oA": 0,
 		"oAP": "/img/cubigram-creator-miguelcm_.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/cubigram-creator-toniconmac.png": {
+		"ft": 32768,
+		"iS": 19232,
+		"oA": 0,
+		"oAP": "/img/cubigram-creator-toniconmac.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

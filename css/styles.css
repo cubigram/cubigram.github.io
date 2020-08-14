@@ -587,6 +587,11 @@ a {
     margin: 0 auto 1em;
   }
 }
+.twitter-embeds {
+  max-width: 550px;
+  width: 100%;
+  margin: 2rem auto;
+}
 .creators-list {
   *zoom: 1;
   /* IE 6/7 support */
