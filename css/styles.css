@@ -661,6 +661,13 @@ a {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.isowords-credit {
+  margin-bottom: 5rem;
+}
+.isowords-credit a {
+  color: #fff;
+  text-decoration: underline;
+}
 .howtoplay__img {
   margin-bottom: 5rem;
   width: 32.396%;
