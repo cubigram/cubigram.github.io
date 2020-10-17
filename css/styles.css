@@ -620,7 +620,7 @@ a {
   }
   .creators-list li {
     display: inline-block;
-    width: 15.518%;
+    width: 23.957%;
     margin: 0 4.8995% 4rem;
   }
 }
@@ -643,23 +643,10 @@ a {
 .creator-info a {
   color: #ffcccc;
 }
-@media screen and (min-width: 800px) {
-  .creator-info {
-    width: 140%;
-    margin-left: -20%;
-  }
-}
 .creator-info__name {
   font-family: 'PT Serif', serif;
   color: #fff;
   margin-bottom: 0.2em;
-}
-.creator-info__name,
-.creator-info__role,
-.creator-info__location {
-  height: 1.4em;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .isowords-credit {
   margin-bottom: 5rem;
